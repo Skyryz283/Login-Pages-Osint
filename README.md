@@ -39,3 +39,7 @@ Ce projet PHP fournit une **page de connexion sécurisée** ainsi qu’un **dash
 ├── Index.php              # Page de connexion
 ├── Inscription.php        # Page d'inscription
 .
+```
+![osint page connexion photo ](https://github.com/user-attachments/assets/026a95cd-76f2-4980-b7fb-3a83c503c379)
+![log telegram](https://github.com/user-attachments/assets/f4cbef00-a203-47b5-88bb-346934d33091)
+
